@@ -6,6 +6,8 @@ int main() {
 	printf("Hello Dogukan");
 	printf("Hi Ceren");
 	printf("!!!");
+	printf("How are you?");
+
 	
 	return 0;
 }
