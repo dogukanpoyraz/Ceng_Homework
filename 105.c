@@ -7,7 +7,7 @@ int main() {
 	printf("Hi Ceren");
 	printf("!!!");
 	printf("How are you?");
-
+	printf("I'm fine. You?");
 	
 	return 0;
 }
