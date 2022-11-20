@@ -8,9 +8,9 @@ int main() {
 	printf("!!!");
 	printf("How are you?");
 	printf("I'm fine. You?");
-	printf("I'm fine too.")
+	printf("I'm fine too.");
 	printf("See you again.");
-	
+	printf("See you:)");
 	
 	return 0;
 }
